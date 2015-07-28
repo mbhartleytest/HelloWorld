@@ -5,5 +5,5 @@ probably one of many such repositories currently hosted on this wonderful site
 
 **here's a little example of markdown**
 
-*and another*
+(and a deletion)
 
